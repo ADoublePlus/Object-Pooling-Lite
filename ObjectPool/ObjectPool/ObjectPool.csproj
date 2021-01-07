@@ -41,6 +41,7 @@
     <Compile Include="IPool.cs" />
     <Compile Include="IPoolPolicy.cs" />
     <Compile Include="PooledObject.cs" />
+    <Compile Include="PoolPolicy.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
