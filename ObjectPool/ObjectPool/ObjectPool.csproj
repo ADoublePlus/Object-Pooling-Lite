@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="IPool.cs" />
+    <Compile Include="IPoolPolicy.cs" />
     <Compile Include="PooledObject.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
