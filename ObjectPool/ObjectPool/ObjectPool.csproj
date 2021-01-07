@@ -36,6 +36,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DefaultPoolPolicy.cs" />
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="IPool.cs" />
     <Compile Include="IPoolPolicy.cs" />
