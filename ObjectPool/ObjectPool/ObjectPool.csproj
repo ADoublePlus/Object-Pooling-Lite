@@ -40,6 +40,7 @@
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="IPool.cs" />
     <Compile Include="IPoolPolicy.cs" />
+    <Compile Include="Pool.cs" />
     <Compile Include="PooledObject.cs" />
     <Compile Include="PoolPolicy.cs" />
   </ItemGroup>
